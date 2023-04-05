@@ -1,6 +1,6 @@
 import { Fragment, useState } from 'react';
-import { Link, Route, Swithch } from 'react-router-dom';
-import ProductsPage from './Products';
+import { Link, Route, Switch } from 'react-router-dom';
+import Customer from './Customers';
 import { Dialog, Menu, Transition } from '@headlessui/react';
 import {
   Bars3CenterLeftIcon,
